@@ -1,0 +1,6 @@
+{
+  "name": "TOF4 DOORS — Strong Doors, Safe Homes",
+  "description": "Quality Turkish doors, single and 1½ doors, wooden steel doors, and bathroom doors located in Tech, Aiyigya, opposite Sakafia SHS, Ghana.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
